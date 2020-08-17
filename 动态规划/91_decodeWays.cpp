@@ -26,7 +26,6 @@ public:
                 }
             }
         }
-        return f[strLength];
-        
+        return f[strLength];        
     }
 };
